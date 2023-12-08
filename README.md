@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Andy
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently studying for my Master's degree in Computer Science
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any kinds of projects
 - 📫 How to reach me: andyvu@outlook.dk
 
 <!---
