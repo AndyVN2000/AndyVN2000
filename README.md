@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning
 - 🌱 I have graduated from my Master's degree in Computer Science
 - 💞️ I’m looking to collaborate on any kinds of projects
-- 📫 How to reach me: andyvu@outlook.dk
+- 📫 How to reach me: andyvunguyen.business@gmail.com
 
 <!---
 AndyVN2000/AndyVN2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
