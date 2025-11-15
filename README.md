@@ -1,10 +1,6 @@
-- 👋 Hi, I’m Andy
-- 👀 I’m interested in Machine Learning
-- 🌱 I have graduated from my Master's degree in Computer Science
-- 💞️ I’m looking to collaborate on any kinds of projects
-- 📫 How to reach me: andyvunguyen.business@gmail.com
+Email: andyvunguyen.business@gmail.com
 
-<!---
-AndyVN2000/AndyVN2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Graduated in my Master's in Computer Science at Aarhus University 2025.
+For a semester, I worked as a Teaching Assistant at Aarhus University in a course about software architecture and the usage of design patterns.
+Experience in Java and Python. Working on learning C#
+Teaching myself a little bit of developing a web application using Springboot.
